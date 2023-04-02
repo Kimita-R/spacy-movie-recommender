@@ -25,4 +25,4 @@ OR
 * Clone or download the code from this repository
 * Open a terminal or command prompt and navigate to the directory where the code is located
 * Run the script by typing python watch_next.py and pressing enter
-* The script will print the recommended movie and its description
+* The script will print the recommended movie title
